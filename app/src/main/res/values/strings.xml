@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="name">Name:</string>
+    <string name="mobile">Mobile Number:</string>
+    <string name="pax">Pax:</string>
+    <string name="date">Date:</string>
+    <string name="time">Time:</string>
+    <string name="area">Area:</string>
+    <string name="smoke">Smoking</string>
+    <string name="non_smoke">Non Smoking</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+</resources>
